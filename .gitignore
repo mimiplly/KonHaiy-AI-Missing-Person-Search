@@ -1,0 +1,70 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production
+.env.staging
+
+# Dependencies
+node_modules/
+venv/
+venv310/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build outputs
+build/
+dist/
+.next/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Uploads
+uploads/
+*.png
+*.jpg
+*.jpeg
+*.gif
+!README.md
+
+# Test images / personal data
+face_recognition/images/
+face_recognition/test_images/
+face_recognition/assets/
+screenshots/
+Frontend/frontend MS/msfrontend/src/images/
+Frontend/frontend MS/msfrontend/public/*.png
+Frontend/frontend MS/msfrontend/public/*.ico
+Frontend/frontend MS/msfrontend/src/components/missing_list/missingguy.png
+Frontend/frontend MS/msfrontend/src/components/find_loc/*.png
+Frontend/frontend MS/msfrontend/src/components/find_loc/*.gif
+Frontend/frontend MS/msfrontend/src/components/Home/heroimagefinal.png
+
+# Git
+.git/
