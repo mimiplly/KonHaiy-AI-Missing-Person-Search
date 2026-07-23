@@ -50,31 +50,31 @@ I was the main developer responsible for turning the idea into a working applica
 
 * Home Page
 
-<img width="1052" height="522" alt="image" src="https://github.com/user-attachments/assets/647b43ef-66ca-4286-8d40-22f9bfc9e621" />
+<img width="900" alt="KonHaiy AI Home Page" src="https://github.com/user-attachments/assets/647b43ef-66ca-4286-8d40-22f9bfc9e621" />
 
 * Missing Person Registration
 
-<img width="955" height="539" alt="image" src="https://github.com/user-attachments/assets/9f3f604b-da5a-4f77-a76b-c46d9071dbf4" />
+<img width="850" alt="Missing Person Registration Page" src="https://github.com/user-attachments/assets/9f3f604b-da5a-4f77-a76b-c46d9071dbf4" />
 
 * Missing Persons List
 
-<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/abd9b62e-66fc-434f-a844-50be5d026016" />
+<img width="850" alt="Missing Persons List Page" src="https://github.com/user-attachments/assets/abd9b62e-66fc-434f-a844-50be5d026016" />
 
-* Tracked Location and Search Option
+* Tracked Locations and Search
 
-<img width="934" height="526" alt="image" src="https://github.com/user-attachments/assets/51d03d0c-9465-4576-a271-1b74b6a0cd26" />
+<img width="850" alt="Tracked Locations and Search Page" src="https://github.com/user-attachments/assets/51d03d0c-9465-4576-a271-1b74b6a0cd26" />
 
 * Surveillance Dashboard
 
-<img width="952" height="530" alt="image" src="https://github.com/user-attachments/assets/45799765-b341-4ab5-94a5-53b2e91f2ded" />
+<img width="850" alt="Surveillance Dashboard" src="https://github.com/user-attachments/assets/45799765-b341-4ab5-94a5-53b2e91f2ded" />
 
-* Working screenshots while detecting face
+* Face Detection in Progress
 
-<img width="919" height="497" alt="image" src="https://github.com/user-attachments/assets/1300c18d-4600-4829-82da-e0f8ac660fa7" />
+<img width="820" alt="Face Detection in Progress" src="https://github.com/user-attachments/assets/1300c18d-4600-4829-82da-e0f8ac660fa7" />
 
-* Telegram message recieved simulataneously after locations have been tracked
+* Telegram Alert After a Location Is Detected
 
-<img width="632" height="302" alt="image" src="https://github.com/user-attachments/assets/44ca09af-2858-444a-8a81-e41e91316c2f" />
+<img width="580" alt="Telegram Location Alert" src="https://github.com/user-attachments/assets/44ca09af-2858-444a-8a81-e41e91316c2f" />
 
 ## Technology Stack
 
