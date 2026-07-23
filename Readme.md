@@ -3,13 +3,14 @@
 ## Table of Contents
 1. [Project Purpose](#project-purpose)
 2. [Main Features](#main-features)
-3. [Technology Stack](#technology-stack)
-4. [Project Structure](#project-structure)
-5. [Installation](#installation)
-6. [Environment Variables](#environment-variables)
-7. [Startup Commands](#startup-commands)
-8. [Privacy Warning](#privacy-warning)
-9. [Known Limitations](#known-limitations)
+3. [Demo & Presentation](#Demo-and-Presentation)
+4. [Technology Stack](#technology-stack)
+5. [Project Structure](#project-structure)
+6. [Installation](#installation)
+7. [Environment Variables](#environment-variables)
+8. [Startup Commands](#startup-commands)
+9. [Privacy Warning](#privacy-warning)
+10. [Known Limitations](#known-limitations)
 
 ## Project Purpose
 
@@ -24,6 +25,45 @@ KonHaiy AI is a face recognition-based missing person detection and tracking sys
 - Node.js/Express backend with MongoDB for storing person records and location history
 - Search tracked locations by identification number
 - Streamlit-based surveillance dashboard
+
+#### Demo & Presentation
+
+### Project Presentation
+
+View the complete project presentation here:
+
+[View KonHaiy AI Presentation (PDF)](ใส่ลิงก์-PDF-ตรงนี้)
+
+### Application Screenshots
+
+#### Home Page
+
+![KonHaiy AI Home Page](screenshots/home-page.png)
+
+#### Missing Person Registration
+
+![Missing Person Registration Page](screenshots/register-person.png)
+
+#### Missing Persons List
+
+![Missing Persons List Page](screenshots/missing-persons-list.png)
+
+#### Report Case Page
+
+![Report Case Page](screenshots/report-case.png)
+
+#### Location Search
+
+![Tracked Location Search Page](screenshots/location-search.png)
+
+#### Surveillance Dashboard
+
+![Face Recognition Surveillance Dashboard](screenshots/surveillance-dashboard.png)
+
+#### Detection and Notification
+
+![Face Detection and Alert Result](screenshots/detection-alert.png)
+
 
 ## Technology Stack
 
