@@ -1,4 +1,5 @@
 
+
 # KonHaiy AI
 
 KonHaiy AI is a missing person search system that uses facial recognition to compare registered photos with webcam or surveillance footage.
@@ -45,7 +46,7 @@ I was the main developer responsible for turning the idea into a working applica
 
 ### Project Presentation
 
-[View KonHaiy AI Presentation (PDF)](docs/KonHaiy-AI-Presentation.pdf)
+[View KonHaiy AI Presentation (PDF)](https://github.com/user-attachments/files/30314189/KonHaiy.AI.Presentation_compressed.pdf)
 
 ### Application Screenshots
 
