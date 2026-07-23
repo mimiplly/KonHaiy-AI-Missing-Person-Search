@@ -50,7 +50,9 @@ I was the main developer responsible for turning the idea into a working applica
 
 #### Home Page
 
-![KonHaiy AI Home Page](screenshots/home-page.png)
+![KonHaiy AI Home Page]
+<img width="1052" height="522" alt="image" src="https://github.com/user-attachments/assets/647b43ef-66ca-4286-8d40-22f9bfc9e621" />
+
 
 #### Missing Person Registration
 
