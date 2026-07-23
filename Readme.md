@@ -50,33 +50,27 @@ I was the main developer responsible for turning the idea into a working applica
 
 #### Home Page
 
-![KonHaiy AI Home Page]
 <img width="1052" height="522" alt="image" src="https://github.com/user-attachments/assets/647b43ef-66ca-4286-8d40-22f9bfc9e621" />
-
 
 #### Missing Person Registration
 
-![Missing Person Registration](screenshots/register-person.png)
+<img width="955" height="539" alt="image" src="https://github.com/user-attachments/assets/9f3f604b-da5a-4f77-a76b-c46d9071dbf4" />
 
 #### Missing Persons List
 
-![Missing Persons List](screenshots/missing-persons-list.png)
+<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/abd9b62e-66fc-434f-a844-50be5d026016" />
 
-#### Report Case Page
+#### Tracked Location and Search Option
 
-![Report Case Page](screenshots/report-case.png)
-
-#### Location Search
-
-![Location Search](screenshots/location-search.png)
+<img width="934" height="526" alt="image" src="https://github.com/user-attachments/assets/51d03d0c-9465-4576-a271-1b74b6a0cd26" />
 
 #### Surveillance Dashboard
 
-![Surveillance Dashboard](screenshots/surveillance-dashboard.png)
+<img width="952" height="530" alt="image" src="https://github.com/user-attachments/assets/45799765-b341-4ab5-94a5-53b2e91f2ded" />
 
-#### Face Detection Result
+#### Telegram message recieved simulataneously after locations have been tracked
 
-![Face Detection Result](screenshots/detection-result.png)
+<img width="632" height="302" alt="image" src="https://github.com/user-attachments/assets/44ca09af-2858-444a-8a81-e41e91316c2f" />
 
 ## Technology Stack
 
