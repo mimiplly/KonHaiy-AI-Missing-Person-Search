@@ -48,7 +48,7 @@ I was the main developer responsible for turning the idea into a working applica
 
 ### Application Screenshots
 
-#### Home Page
+# Home Page
 
 <img width="1052" height="522" alt="image" src="https://github.com/user-attachments/assets/647b43ef-66ca-4286-8d40-22f9bfc9e621" />
 
