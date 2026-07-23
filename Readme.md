@@ -48,31 +48,31 @@ I was the main developer responsible for turning the idea into a working applica
 
 ### Application Screenshots
 
-# Home Page
+* Home Page
 
 <img width="1052" height="522" alt="image" src="https://github.com/user-attachments/assets/647b43ef-66ca-4286-8d40-22f9bfc9e621" />
 
-#### Missing Person Registration
+* Missing Person Registration
 
 <img width="955" height="539" alt="image" src="https://github.com/user-attachments/assets/9f3f604b-da5a-4f77-a76b-c46d9071dbf4" />
 
-#### Missing Persons List
+* Missing Persons List
 
 <img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/abd9b62e-66fc-434f-a844-50be5d026016" />
 
-#### Tracked Location and Search Option
+* Tracked Location and Search Option
 
 <img width="934" height="526" alt="image" src="https://github.com/user-attachments/assets/51d03d0c-9465-4576-a271-1b74b6a0cd26" />
 
-#### Surveillance Dashboard
+* Surveillance Dashboard
 
 <img width="952" height="530" alt="image" src="https://github.com/user-attachments/assets/45799765-b341-4ab5-94a5-53b2e91f2ded" />
 
-#### Working screenshots while detecting face
+* Working screenshots while detecting face
 
 <img width="919" height="497" alt="image" src="https://github.com/user-attachments/assets/1300c18d-4600-4829-82da-e0f8ac660fa7" />
 
-#### Telegram message recieved simulataneously after locations have been tracked
+* Telegram message recieved simulataneously after locations have been tracked
 
 <img width="632" height="302" alt="image" src="https://github.com/user-attachments/assets/44ca09af-2858-444a-8a81-e41e91316c2f" />
 
