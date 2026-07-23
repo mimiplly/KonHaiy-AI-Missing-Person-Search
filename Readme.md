@@ -68,6 +68,10 @@ I was the main developer responsible for turning the idea into a working applica
 
 <img width="952" height="530" alt="image" src="https://github.com/user-attachments/assets/45799765-b341-4ab5-94a5-53b2e91f2ded" />
 
+#### Working screenshots while detecting face
+
+<img width="919" height="497" alt="image" src="https://github.com/user-attachments/assets/1300c18d-4600-4829-82da-e0f8ac660fa7" />
+
 #### Telegram message recieved simulataneously after locations have been tracked
 
 <img width="632" height="302" alt="image" src="https://github.com/user-attachments/assets/44ca09af-2858-444a-8a81-e41e91316c2f" />
